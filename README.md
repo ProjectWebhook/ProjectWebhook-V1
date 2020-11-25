@@ -1,2 +1,2 @@
-# ProjectWebhook-V1
-simple discord webhook
+# webhook
+Simple Discord Webhook Sender
